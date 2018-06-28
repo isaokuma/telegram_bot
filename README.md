@@ -26,15 +26,15 @@ Após isso, podemos fazer a instalação e/ou atualização do módulo através 
 * Instalação utilizando o pip ou pip3
 
 ```
-			pip install telepot 
-			pip3 install telepot
+pip install telepot 
+pip3 install telepot
 ```      
 
 * Atualização utilizando o pip ou pi3
 
 ```
-			pip install telepot –upgrade 
-			pip3 install telepot --upgrade
+pip install telepot –upgrade 
+pip3 install telepot --upgrade
 ```
 Feito isso, o módulo já estará pronto para ser utilizado!
 
