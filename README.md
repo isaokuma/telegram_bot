@@ -1,4 +1,6 @@
 # Instruções
+Versão Python: 2.7.12
+
 
 # Criação do bot
 
