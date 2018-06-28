@@ -20,22 +20,17 @@ pip install -U pip
 ```
 Após isso, podemos fazer a instalação e/ou atualização do módulo através dos seguintes comandos: 
 
-* Instalação
+* Instalação utilizando o pip ou pip3
 
 ```
 			pip install telepot 
-```      
-OU
-```
 			pip3 install telepot
 ```      
 
-* Atualização
+* Atualização utilizando o pip ou pi3
 
 ```
 			pip install telepot –upgrade 
-```
-OU
-```
 			pip3 install telepot --upgrade
-```      
+```
+    
