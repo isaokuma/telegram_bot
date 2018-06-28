@@ -19,6 +19,7 @@ Para nos conectarmos ao bot que criamos usando o BotFather será utilizado o mó
 Antes de poder fazer a utilização desse módulo, deve ser instalado o gerenciador de pacotes da linguagem Python (pip):
 ```
 pip install -U pip
+sudo apt install python3-pip
 ```
 Após isso, podemos fazer a instalação e/ou atualização do módulo através dos seguintes comandos: 
 
