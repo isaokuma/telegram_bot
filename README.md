@@ -4,10 +4,10 @@ Versão Python: 2.7.12
 
 # Criação do bot
 Para criar um bot no aplicativo Telegram você é necessário seguir os seguintes passos:
-* Clicar no campo de busca do Telegram e pesquisar por ```@BotFather```;
-* Depois de iniciar uma conversa com o ```@BotFather```enviar a seguinte mensagem:  ```/newbot```;
-* Após isso, o ```@BotFather``` irá solicitar o nome e o nome de usuário que você deseja dar ao seu bot. Para o nome de usuário existem algumas restrições que devem ser respeitadas. É obrigatório que você escolha um nome de usuário que ainda não existe e o final do nome deve conter ```Bot```. Exemplo: ```TestandoOBot```
-* Depois que o seu bot for criado você receberá um token de acesso, que será utilizado para fazer a conexão entre a API do Telegram e o seu bot. Caso você esqueça dele, você deve enviar o comando ```/token``` para o ```@BotFather```.
+* 1. Clicar no campo de busca do Telegram e pesquisar por ```@BotFather```;
+* 2. Depois de iniciar uma conversa com o ```@BotFather```enviar a seguinte mensagem:  ```/newbot```;
+* 3. Após isso, o ```@BotFather``` irá solicitar o nome e o nome de usuário que você deseja dar ao seu bot. Para o nome de usuário existem algumas restrições que devem ser respeitadas. É obrigatório que você escolha um nome de usuário que ainda não existe e o final do nome deve conter ```Bot```. 
+* 4. Depois que o seu bot for criado você receberá um token de acesso, que será utilizado para fazer a conexão entre a API do Telegram e o seu bot. Caso você esqueça dele, você deve enviar o comando ```/token``` para o ```@BotFather```.
 
 
 
