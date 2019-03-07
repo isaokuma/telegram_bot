@@ -4,7 +4,6 @@ import telepot
 from telepot.loop import MessageLoop
 import time
 
- 
 def handle(msg):
      content_type, chat_type, chat_id = telepot.glance(msg)
         
