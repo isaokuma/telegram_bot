@@ -39,6 +39,4 @@ pip3 install telepot --upgrade
 Feito isso, o módulo já estará pronto para ser utilizado!
 
 
-# Execução do código
 
-Explicação
